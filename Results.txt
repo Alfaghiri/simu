@@ -1,10 +1,35 @@
-Run: 1Number of members in queue: 122Number of machines in queue: 5855
-Run: 2Number of members in queue: 122Number of machines in queue: 5855
-Run: 3Number of members in queue: 122Number of machines in queue: 5855
-Run: 4Number of members in queue: 122Number of machines in queue: 5855
-Run: 5Number of members in queue: 122Number of machines in queue: 5855
-Run: 6Number of members in queue: 122Number of machines in queue: 5855
-Run: 7Number of members in queue: 122Number of machines in queue: 5855
-Run: 8Number of members in queue: 122Number of machines in queue: 5855
-Run: 9Number of members in queue: 122Number of machines in queue: 5855
-Run: 10Number of members in queue: 122Number of machines in queue: 5855
+Average cost per hour (1 M / 1 W): 20.63 €/h
+Average cost per hour (1 M / 2 W): 29.50 €/h
+Average cost per hour (1 M / 3 W): 40.29 €/h
+Average cost per hour (1 M / 4 W): 49.88 €/h
+Average cost per hour (1 M / 5 W): 60.05 €/h
+
+Average cost per hour (2 M / 1 W): 33.22 €/h
+Average cost per hour (2 M / 2 W): 39.70 €/h
+Average cost per hour (2 M / 3 W): 49.26 €/h
+Average cost per hour (2 M / 4 W): 59.95 €/h
+Average cost per hour (2 M / 5 W): 69.97 €/h
+
+Average cost per hour (3 M / 1 W): 49.74 €/h
+Average cost per hour (3 M / 2 W): 50.29 €/h
+Average cost per hour (3 M / 3 W): 60.41 €/h
+Average cost per hour (3 M / 4 W): 70.37 €/h
+Average cost per hour (3 M / 5 W): 81.21 €/h
+
+Average cost per hour (4 M / 1 W): 72.16 €/h
+Average cost per hour (4 M / 2 W): 61.67 €/h
+Average cost per hour (4 M / 3 W): 69.54 €/h
+Average cost per hour (4 M / 4 W): 78.80 €/h
+Average cost per hour (4 M / 5 W): 89.36 €/h
+
+Average cost per hour (5 M / 1 W): 100.67 €/h
+Average cost per hour (5 M / 2 W): 75.22 €/h
+Average cost per hour (5 M / 3 W): 80.34 €/h
+Average cost per hour (5 M / 4 W): 90.17 €/h
+Average cost per hour (5 M / 5 W): 101.23 €/h
+
+Best Result: 1 Machines, 1 Workers, cost ~ 20.63 €/h
+Best Result: 2 Machines, 1 Workers, cost ~ 33.22 €/h
+Best Result: 3 Machines, 1 Workers, cost ~ 49.74 €/h
+Best Result: 4 Machines, 2 Workers, cost ~ 61.67 €/h
+Best Result: 5 Machines, 2 Workers, cost ~ 75.22 €/h
